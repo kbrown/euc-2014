@@ -1,4 +1,4 @@
 [submodule "cookbooks"]
 	path = cookbooks
-	url = git://github.com/lavrin/travis-cookbooks.git
+	url = git://github.com/kbrown/travis-cookbooks.git
 	branch = "euc-2014"
